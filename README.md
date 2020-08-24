@@ -1,5 +1,6 @@
 # todovueapp
 
+A simple todo application built with vueJS framework CLI.
 ## Project setup
 ```
 npm install
